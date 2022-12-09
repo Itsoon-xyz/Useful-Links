@@ -1,1 +1,85 @@
 # Bookmarks
+- Android
+	- App
+		- Premium / Crack
+			- Youtube
+			- Spotify
+			- Alternative AppStore
+- Virus
+	- Check
+		- Virus Total
+		- Malware Byte
+- Design
+	- Color
+- Desktop
+	- App
+		- Premium
+			- Youtube
+			- Spotify
+- Ebooks
+	- z-lib
+	- z-lib ( tor )
+	- pearltrees
+	- pdfdrive
+- Editing
+	- Video
+		- fable
+	- Picture
+		- bggenerator
+		- waifu2x
+		- photomosh
+		- clipdrop
+		- photopea
+		- squoosh
+- Assets free 
+	- pexels
+	- pixabay
+	- videezy
+	- mixkit
+- Games
+	- getgamez
+	- cracked-games
+	- cracked
+	- cpasbien
+	- steamunlocked
+- Software
+	- filecr
+	- vfxdownload
+	- downloadpirate
+	- mazterize
+	- abbaspc
+	- getgamez
+	- cracked-games
+	- cracked
+	- cpasbien
+- Movies | Series
+	- saypap
+	- saypap xyz
+	- wiflix
+	- dulourd
+	- popflix
+	- cineplatforme
+	- wawacity
+	- cpasbien
+	- hdss
+- Password Creator
+	- password creator
+	- Music
+	- melody
+	- soundraw
+- Alternative to Notion
+	- Obsidian
+- Steam
+	- steamunlocked
+	- steamworkshop
+- Temp contact
+	- Number
+		- temp-number
+	- Mail
+		- temp-mail
+		- generator
+		- cryptomail
+		- gmailnator
+- Texture 3D
+	- ambientcg
+	- cgbookcase
